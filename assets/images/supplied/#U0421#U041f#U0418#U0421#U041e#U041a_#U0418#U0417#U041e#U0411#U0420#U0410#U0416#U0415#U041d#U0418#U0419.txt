@@ -1,0 +1,39 @@
+ФОТОГРАФИИ, ИСПОЛЬЗОВАННЫЕ НА САЙТЕ
+
+Автомобили:
+- car_2107.jpg — ВАЗ-2107
+- car_2109.jpg — ВАЗ-2109
+- car_2110.jpg — ВАЗ-2110
+- car_2114.jpg — ВАЗ-2114
+- car_kalina.jpg — Lada Kalina
+- car_granta.jpg — Lada Granta
+- car_priora.jpg — Lada Priora
+- car_niva.jpg — Lada Niva 4x4
+- car_vesta.jpg — Lada Vesta
+- car_largus.jpg — Lada Largus
+
+Запчасти и ремонт:
+- part_wheel.jpg — колёса
+- part_plug.jpg — свеча зажигания
+- part_radiator.jpg — радиатор
+- part_rust.jpg — коррозия кузова
+- part_engine_repair.jpg — ремонт двигателя
+- part_battery.jpg — аккумулятор
+- part_starter.jpg — стартер
+- part_brake_pads.jpg — тормозные колодки
+- part_suspension.jpg — подвеска
+- part_air_filter.jpg — воздушный фильтр
+- part_timing_belt.jpg — ремень ГРМ
+- part_clutch.jpg — сцепление
+- part_alternator.jpg — генератор
+- part_cooling_leak.jpg — утечка жидкости охлаждения
+- part_brake_repair.jpg — ремонт тормозного механизма
+- part_rust_repair.jpg — ремонт коррозии
+- part_oil.jpg — моторное масло / двигатель
+- part_air_intake.jpg — проверка узлов двигателя
+- workshop.jpg — мастерская
+- service_diagnostics.jpg — диагностика
+- site_header.jpg — иллюстрация интерфейса
+- logo_lada.png, logo_wauto.png — логотипы
+
+Файлы сохранены в assets/images/supplied. Основные изображения интерфейса также обновлены в assets/images/ui.
